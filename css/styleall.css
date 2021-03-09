@@ -232,9 +232,6 @@ footer a:hover::after{
     font-size: 4vw;
 }
 @media screen and (max-width:500px){
-    .skcon {
-        display: none;
-    }
     .hideon{
         display: none;  
     }
