@@ -231,7 +231,10 @@ footer a:hover::after{
  .foot{
      font-size: 4vw;
  }
-@media screen and (max-width:374px){
+@media screen and (max-width:500px){
+    .skcon {
+        display: none;
+    }
     .hideon{
         display: none;  
     }

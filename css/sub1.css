@@ -211,6 +211,12 @@ strong{
 
 }
 @media screen and (max-width:500px){
+    
+.mobile1 .mainimg {
+    display: flex;
+    
+    height: 100px;
+    }
 .mainimg1 {
     height: 100px;
 }
