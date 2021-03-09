@@ -230,7 +230,7 @@ footer a:hover::after{
 }
 .foot{
     font-size: 4vw;
- 
+}
 @media screen and (max-width:500px){
     .skcon {
         display: none;
