@@ -227,10 +227,10 @@ footer a:hover::after{
 }
 .hidef{
     display: none;
- }
- .foot{
-     font-size: 4vw;
- }
+}
+.foot{
+    font-size: 4vw;
+ 
 @media screen and (max-width:500px){
     .skcon {
         display: none;

@@ -211,7 +211,9 @@ strong{
 
 }
 @media screen and (max-width:500px){
-    
+    .op h2{
+        font-size: 0.4rem;
+    }
 .mobile1 .mainimg {
     display: flex;
     
@@ -257,4 +259,9 @@ footer{
     display: none;
 }  
 
+}
+@media screen and (max-width:375px){
+    .op strong h2{
+        font-size: 0vh;
+    }
 }  
