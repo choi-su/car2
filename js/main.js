@@ -3,7 +3,7 @@
 console.log('hello world!');
 $(document).ready(function($){
     // 메인 로딩화면
-    $(window).load(function(){
+    $(window).ready(function(){
         $('.rocon').delay(4000).fadeOut(2000);
         
     });
