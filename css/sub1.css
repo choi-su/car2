@@ -212,6 +212,9 @@ strong{
 
 }
 @media screen and (max-width:500px){
+.mainimg1 {
+    height: 200px;
+}
 .mainimg{
     flex-wrap: wrap;
 }
