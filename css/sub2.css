@@ -164,7 +164,7 @@ strong{
     width: 80%;
     padding: 10%;
 }
-@media screen and (min-width:375px) and (max-width:1199px){
+@media screen and (min-width:501px) and (max-width:1199px){
     .img5{
         width: 70%;
         margin-right: 15%;       
@@ -190,7 +190,10 @@ strong{
     }
    
 }
-@media screen and (max-width:374px){
+@media screen and (max-width:500px){
+    .mainimg1{
+        height: 100px;
+    }
     .mainimg{
         flex-wrap: wrap;
     }
