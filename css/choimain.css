@@ -412,7 +412,7 @@ section .box div span:nth-child(6) {
     display: none;
   }
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 500px) {
   section {
     display: none;
   }
