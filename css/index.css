@@ -805,7 +805,7 @@ input[id="menuicon"]:checked ~ .header .side .side-menu{
         transform: translateX(-50%);
     }
 }
-@media screen and (max-width:399px){
+@media screen and (max-width:500px){
     .hidef{
         display: block;
     }
